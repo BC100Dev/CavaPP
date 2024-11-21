@@ -32,7 +32,4 @@ bin/
 .DS_Store
 
 ### Build + CLion + CMake ###
-build*
-Build*
-Output*
 cmake-build*
